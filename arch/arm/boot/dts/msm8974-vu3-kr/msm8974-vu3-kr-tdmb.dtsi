@@ -11,7 +11,11 @@
  * GNU General Public License for more details.
  */
 
+<<<<<<< HEAD
 /include/ "../skeleton.dtsi"
+=======
+/include/ "skeleton.dtsi"
+>>>>>>> Adjust device tree files to fit with what the generic make files expect
 
 / {
 	aliases {

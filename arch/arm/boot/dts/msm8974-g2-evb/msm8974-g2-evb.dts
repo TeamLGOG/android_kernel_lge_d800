@@ -12,7 +12,11 @@
 
 /dts-v1/;
 
+<<<<<<< HEAD
 /include/ "../msm8974-lge-common/msm8974-lge.dtsi"
+=======
+/include/ "msm8974-lge-common/msm8974-lge.dtsi"
+>>>>>>> Adjust device tree files to fit with what the generic make files expect
 /include/ "msm8974-g2-evb.dtsi"
 
 / {
